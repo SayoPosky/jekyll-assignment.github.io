@@ -6,16 +6,7 @@ permalink: /projects/
 
 # Projects
 
-Here are a few sample projects:
-
-### Library Management System
-
-- Built with React, Node.js, and Bootstrap
-- Features: Search, Reserve, Admin Dashboard
-
-### GitHub Pages Website
-
-- Jekyll-based portfolio hosted live
-- Includes About, Blog, and Contact pages
-
-You can find more on my GitHub profile.
+### 🧾 Assignment 1: Jekyll Website  
+- Created using Markdown and GitHub Pages  
+- Includes navigation across 5 pages  
+- [🔗 View Project](https://sayoposky.github.io/jekyll-assignment.github.io/)
