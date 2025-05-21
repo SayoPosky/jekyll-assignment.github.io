@@ -6,7 +6,7 @@ permalink: /about/
 
 # About Me
 
-Hi! I’m **Ogunkile Oluwasayo**, a Computer Science student passionate about frontend and web systems design.
+Hi! I’m **Ogunkile Oluwasayo**, I am passionate about frontend and web systems design.
 
 - **Student ID:** 75801  
 - 54DPH Internet Technologies DK-L-2024/25  
