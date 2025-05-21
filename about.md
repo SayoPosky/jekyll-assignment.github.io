@@ -6,10 +6,10 @@ permalink: /about/
 
 # About Me
 
-I'm a web enthusiast studying Computer Science.  
-I enjoy working on frontend, backend, and full-stack projects.
+Hi! I’m **Ogunkile Oluwasayo**, a Computer Science student passionate about frontend and web systems design.
 
-I’m always curious about new technologies and excited to build real-world solutions.
+- **Student ID:** 75801  
+- 54DPH Internet Technologies DK-L-2024/25  
+- **Email:** ogunkileoluwasayo@gmail.com  
 
-- Student ID: 123456789
-- Department: Computer Science
+I love learning new technologies and building modern web-based applications using tools like React, Bootstrap, Git, and Markdown.
